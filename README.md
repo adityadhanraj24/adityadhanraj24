@@ -36,6 +36,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📫 How to Reach Me
-- **Email**: [adityadhanraj.dev@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/aditya-dhanraj-70a4981a7]
-- **Portfolio**: [Your Portfolio Link, if available]
+- **Email**: adityadhanraj.dev@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/aditya-dhanraj-70a4981a7
+
