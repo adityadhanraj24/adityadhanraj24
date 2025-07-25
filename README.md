@@ -2,7 +2,7 @@
 ## 👋 Hello, I'm Aditya Dhanraj!
 
 ### 🌐 About Me
-- 🎓 I'm currently pursuing a degree in **Computer Science and Engineering**, in my 5th semester.
+- 🎓 I'm currently pursuing a degree in **Computer Science and Engineering**, in my 7th semester.
 - 💻 I'm passionate about **Full Stack Development**, and have been honing my skills by building a variety of projects.
 - 🚀 I have experience in **front-end** and **back-end** technologies, and I’m always excited to learn more and take on new challenges.
 - 📚 Currently, I'm exploring **hospital management systems** as part of my academic and personal projects.
